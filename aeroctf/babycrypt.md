@@ -24,7 +24,7 @@ Encoded: 8185748f7b3b3a3565454584b8babbb8b441323ebc8b3a86b5899283b9c2c56d6438888
 
 It looks like the program they gave us was used to encode some text using the same key, including the flag.
 
-Wouldn't it be nice if we could derive the key from the input/output pairs and decode the falg? ;)
+Wouldn't it be nice if we could derive the key from the input/output pairs and decode the flag? ;)
 
 ## Reversing
 
